@@ -59,17 +59,19 @@ As shown in the above screenshot of the data provided trimming was executed to r
 ### Key Statistics & Visualization
 #### 1. Average Income Per Purchase Status Categorized By Gender
 ![Average Income Per Purchase Status Categorized By Gender](income-per-purchase-sorted-by-gender.png)
-![bar graph](picture1.png)
+
+![bar graph](bar.png)
 As illustrated by the above diagram Tshimo's Biking Hub recognizes two gender; male and female and it has two purchase status; no and yes. The average income of females who have not purchased bikes at Tshimo's Biking Hub is 49714 while that of those who have purchased bikes is 52742. Whereas the average income for males who have not purcahsed bikes is 56184 and that of males who have purchased bikes is 61053. Below the statistical analysis is a bar graph to visualize the results found. 
 
 #### 2. Count Of Purchase Status Per Commute Distance
 ![Count Of Purchase Status Per Commute Distance](bikes-per-distance.png)
-![line graph](picture2.png)
+
+![line graph](line.png)
 A statistical count of purchase status per commute distance is shown in the above diagram. Over a distance of 1 mile from Tshimo's Biking Hub 39 bikes were purchased however the numbers slightly decline as 27 bikes were purchased over a distance of 1-2 miles. For the distances of 2-5 miles the numbers of bikes purchased further drop to 21. The count slightly increases by 8 bikes purchased however for the distance of 5-10 miles. Additionally the number of bikes purchased for the distance on more than 10 miles is the lowest as only 4 bikes were purchased from Tshimo's Biking Hub. Following the statistical results is a line graph to showcast the results obtained above.
 
 #### 3. Count Of Purchase Status Per Marital Status
 ![Count Of Purchase Status Per Marital Status](bikes-per-marital-status.png)
-![barh](picture3.png)
+![barh](barh.png)
 As shown above more single people buy bikes compared to married people. The count of married people who have purchased bikes at Tshimo's Biking Hub is 56 whereas that of single people is 63. Below it is horizontal bar graph to visualize the above spoken of results.
 
 ## RESULTS AND FINDINGS
